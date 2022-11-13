@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/SPA-Project2/precache-manifest.7db597d185436e9f18bb001c3fced80f.js"
+  "/SPA-Project2v2/precache-manifest.6ea7603c3afa4f4d415fa7ba3fc74839.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/SPA-Project2/index.html", {
+workbox.routing.registerNavigationRoute("/SPA-Project2v2/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
