@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "f17a91f5bfe56870b836",
+    "revision": "ff54cf19c7843e2a2f70",
     "url": "/SPA-Project2v2/static/css/main.991ff365.chunk.css"
   },
   {
-    "revision": "f17a91f5bfe56870b836",
-    "url": "/SPA-Project2v2/static/js/main.f17a91f5.chunk.js"
+    "revision": "ff54cf19c7843e2a2f70",
+    "url": "/SPA-Project2v2/static/js/main.ff54cf19.chunk.js"
   },
   {
     "revision": "227eb784fad9cf9bf9de",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/SPA-Project2v2/static/media/header2.33eca35f.jpg"
   },
   {
-    "revision": "bd18a28c5fc428b385a6ad964565deb9",
+    "revision": "97d8617f66468d2c44470574934ebdeb",
     "url": "/SPA-Project2v2/index.html"
   }
 ];
